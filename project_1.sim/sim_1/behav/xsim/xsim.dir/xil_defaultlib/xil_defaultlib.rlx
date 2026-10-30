@@ -1,0 +1,13 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+D:/program/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+D:/program/project_1/project_1.srcs/sim_1/new/tb_simdcoreX.v,1793361806,verilog,,,,tb_simdcoreX,,,,,,,,
+D:/program/project_1/project_1.srcs/sources_1/new/dot_reduction.v,1793360787,verilog,,D:/program/project_1/project_1.srcs/sources_1/new/lane_arithmetic.v,,dot_reduction,,,,,,,,
+D:/program/project_1/project_1.srcs/sources_1/new/lane_arithmetic.v,1793360867,verilog,,D:/program/project_1/project_1.srcs/sources_1/new/lane_split.v,,lane_arithmetic,,,,,,,,
+D:/program/project_1/project_1.srcs/sources_1/new/lane_split.v,1793360948,verilog,,D:/program/project_1/project_1.srcs/sources_1/new/opcode_decoder.v,,lane_split,,,,,,,,
+D:/program/project_1/project_1.srcs/sources_1/new/opcode_decoder.v,1793361034,verilog,,D:/program/project_1/project_1.srcs/sources_1/new/output_packing.v,,opcode_decoder,,,,,,,,
+D:/program/project_1/project_1.srcs/sources_1/new/output_packing.v,1793361122,verilog,,D:/program/project_1/project_1.srcs/sources_1/new/simd_registers.v,,output_packing,,,,,,,,
+D:/program/project_1/project_1.srcs/sources_1/new/simd_registers.v,1793361211,verilog,,D:/program/project_1/project_1.srcs/sources_1/new/simdcoreX.v,,simd_registers,,,,,,,,
+D:/program/project_1/project_1.srcs/sources_1/new/simdcoreX.v,1793361273,verilog,,D:/program/project_1/project_1.srcs/sim_1/new/tb_simdcoreX.v,,simdcoreX,,,,,,,,

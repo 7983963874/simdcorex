@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_1.srcs/sources_1/new/dot_reduction.v" \
+"../../../../project_1.srcs/sources_1/new/lane_arithmetic.v" \
+"../../../../project_1.srcs/sources_1/new/lane_split.v" \
+"../../../../project_1.srcs/sources_1/new/opcode_decoder.v" \
+"../../../../project_1.srcs/sources_1/new/output_packing.v" \
+"../../../../project_1.srcs/sources_1/new/simd_registers.v" \
+"../../../../project_1.srcs/sources_1/new/simdcoreX.v" \
+"../../../../project_1.srcs/sim_1/new/tb_simdcoreX.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
